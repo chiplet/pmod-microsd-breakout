@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "pmod")(type "KiCad")(uri "${KIPRJMOD}/kicad-pmod/pmod.pretty")(options "")(descr ""))
+  (lib (name "microSD")(type "KiCad")(uri "${KIPRJMOD}/microsd_breakout/microSD.pretty")(options "")(descr ""))
+)
